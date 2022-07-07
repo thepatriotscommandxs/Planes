@@ -1,0 +1,1 @@
+give @s minecraft:ghast_spawn_egg{display:{Name:'{"text":"SBD Dauntless","color":"yellow","italic":false}'},CustomModelData:1015,EntityTag:{id:"minecraft:armor_stand",Marker:1b,Invisible:1b,NoBasePlate:1b,PersistenceRequired:1b,Tags:["spawn_sbd"]}} 1

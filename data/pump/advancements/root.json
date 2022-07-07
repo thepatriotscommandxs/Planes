@@ -1,0 +1,13 @@
+{
+    "criteria": {
+        "wing": {
+            "trigger": "minecraft:recipe_unlocked",
+            "conditions": {
+                "recipe": "pump:oil_pump"
+            }
+        }
+    },
+    "rewards": {
+        "function": "pump:crafting/pump"
+    }
+}

@@ -1,0 +1,3 @@
+execute as @s at @s if entity @e[distance=..2,limit=1,sort=nearest,type=item,nbt={Item:{id:"minecraft:dropper",Count:1b,tag:{display:{Name:'{"text":"Engineering Table"}'}}}}] run summon minecraft:item ~ ~ ~ {Motion:[0.0,0.35,0.0],Item:{id:"minecraft:bat_spawn_egg",Count:1b,tag:{display:{Name:'{"text":"Engineering Table","italic":false}'},CustomModelData:1002,EntityTag:{id:"minecraft:armor_stand",Invulnerable:1b,Marker:1b,Invisible:1b,Tags:["place"]}}}}
+kill @s
+kill @e[limit=1,sort=nearest,type=item,nbt={Item:{id:"minecraft:dropper",Count:1b,tag:{display:{Name:'{"text":"Engineering Table"}'}}}}]

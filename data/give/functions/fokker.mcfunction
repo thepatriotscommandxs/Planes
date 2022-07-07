@@ -1,0 +1,1 @@
+give @s minecraft:ghast_spawn_egg{display:{Name:'{"text":"Fokker DR1 Triplane","color":"yellow","italic":false}'},CustomModelData:1009,EntityTag:{id:"minecraft:armor_stand",Marker:1b,Invisible:1b,NoBasePlate:1b,PersistenceRequired:1b,Tags:["spawn_fokker"]}} 1

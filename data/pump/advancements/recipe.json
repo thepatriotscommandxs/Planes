@@ -1,0 +1,13 @@
+{
+    "criteria": {
+        "wing": {
+            "trigger": "minecraft:recipe_unlocked",
+            "conditions": {
+                "recipe": "crafting:recipe"
+            }
+        }
+    },
+    "rewards": {
+        "function": "craft:recipe"
+    }
+}

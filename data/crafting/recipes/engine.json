@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#P#",
+        "PFP",
+        "#P#"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:flint_and_steel"
+        },
+        "P": {
+            "item": "minecraft:piston"
+        },
+        "F": {
+            "item": "minecraft:furnace"
+        }
+    },
+    "result": {
+        "item": "minecraft:knowledge_book",
+        "count": 1
+    }
+}

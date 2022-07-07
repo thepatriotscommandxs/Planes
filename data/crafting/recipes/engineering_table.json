@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#",
+        "C",
+        "A"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:paper"
+        },
+        "C": {
+            "item": "minecraft:crafting_table"
+        },
+        "A": {
+            "item": "minecraft:anvil"
+        }
+    },
+    "result": {
+        "item": "minecraft:knowledge_book",
+        "count": 1
+    }
+}
